@@ -1,5 +1,4 @@
 ### Olá, me chamo João Marcelo
-
 <div>
     <a href="https://github.com/JoaoMarceloGuastala">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoMarceloGuastala&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
