@@ -36,7 +36,7 @@
 - ✊ [Pedra, Papel, Tesoura (Python)](https://github.com/JoaoMarceloGuastala/pedraPapelTesouraPython) — Implementação simples com interação no terminal.
 - 📚 [Sistema de Biblioteca](https://github.com/JoaoMarceloGuastala/Biblioteca) — Pequena "estante" com alguns livros que já li.
 
-> ⚡ Projetos focados em melhorar minha lógica e habilidades em **Python** e **Front-End**.
+>  Projetos focados em melhorar minha lógica e habilidades em **Python** e **Front-End**.
 
 ---
 
