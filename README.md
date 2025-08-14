@@ -13,7 +13,7 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+###  Minhas Estatísticas no GitHub
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoMarceloGuastala&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMarceloGuastala&layout=compact&langs_count=8&theme=radical"/>
@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠️ Tecnologias que estou estudando
+### 🛠 Tecnologias que estou estudando
 <div style="display: inline_block"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -32,9 +32,9 @@
 ---
 
 ### 📂 Projetos em Destaque
-- 🎯 [Acerte o Número (Python)](https://github.com/JoaoMarceloGuastala/acerteONumeroPython) — Jogo interativo para treinar lógica de programação.
-- ✊ [Pedra, Papel, Tesoura (Python)](https://github.com/JoaoMarceloGuastala/pedraPapelTesouraPython) — Implementação simples com interação no terminal.
-- 📚 [Sistema de Biblioteca](https://github.com/JoaoMarceloGuastala/Biblioteca) — Pequena "estante" com alguns livros que já li.
+-  [Acerte o Número (Python)](https://github.com/JoaoMarceloGuastala/acerteONumeroPython) — Jogo interativo para treinar lógica de programação.
+-  [Pedra, Papel, Tesoura (Python)](https://github.com/JoaoMarceloGuastala/pedraPapelTesouraPython) — Implementação simples com interação no terminal.
+-  [Sistema de Biblioteca](https://github.com/JoaoMarceloGuastala/Biblioteca) — Pequena "estante" com alguns livros que já li.
 
 >  Projetos focados em melhorar minha lógica e habilidades em **Python** e **Front-End**.
 
