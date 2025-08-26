@@ -45,5 +45,3 @@
 📧 **E-mail:** joaomarceloguastala2@gmail.com
 
 ---
-
-💡 *"O aprendizado contínuo é a chave para transformar curiosidade em resultados."*
