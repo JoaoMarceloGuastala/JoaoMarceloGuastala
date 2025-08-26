@@ -32,6 +32,7 @@
 ---
 
 ### 📂 Projetos em Destaque
+-  [Acerte o Número (FrontEnd)](https://github.com/JoaoMarceloGuastala/pedraPapelTesouraFrontEnd) - Jogo iterativo para melhorar desenvolvimento e lógica de programação.
 -  [Acerte o Número (Python)](https://github.com/JoaoMarceloGuastala/acerteONumeroPython) — Jogo interativo para treinar lógica de programação.
 -  [Pedra, Papel, Tesoura (Python)](https://github.com/JoaoMarceloGuastala/pedraPapelTesouraPython) — Implementação simples com interação no terminal.
 -  [Sistema de Biblioteca](https://github.com/JoaoMarceloGuastala/Biblioteca) — Pequena "estante" com alguns livros que já li.
